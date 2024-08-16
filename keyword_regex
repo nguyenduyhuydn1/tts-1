@@ -1,0 +1,10 @@
+\b(anh)\b
+\b(?<!nếu\s|ơn\s)\b(anh)(?!\schàng|\sấy|\snhé|\syêu|\scó)\b
+\b(hắn)\b ------------ chưa chắc
+linh hồn  
+
+(?<![”"])\b(Anh)\b(?![^”"]*[”"])
+(?<![”"])\b(anh)(?!\sấy|\schàng|\stím)(?![^”"]*[”"])
+
+
+đây là tiểu thuyết, chuyển sang tiếng việt

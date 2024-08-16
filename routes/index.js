@@ -407,7 +407,6 @@ router.post("/", async (req, res) => {
       // return res.sendFile(savePath);
       return;
     } else {
-      return res.send("false pw");
     }
   } catch {
     console.log("Error occured: retrying...............");
