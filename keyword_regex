@@ -7,4 +7,30 @@ linh hồn
 (?<![”"])\b(anh)(?!\sấy|\schàng|\stím)(?![^”"]*[”"])
 
 
-đây là tiểu thuyết, chuyển sang tiếng việt
+đây là một đoạn của tiểu thuyết, chuyển sang tiếng việt
+
+
+
+\b(\sâm)\b
+\b(\sdương)\b
+nguyên tố âm dương (bóng tối, ánh sáng)
+
+phù thủy Ganh Tị
+
+
+
+
+
+
+
+
+
+
+
+
+(?<![”"])\b(anh)(?!\sấy|\schàng|\stím)(?![^”"]*[”"])
+phù thủy Ganh Tị
+\b(\sâm)\b
+\b(\sdương)\b
+nguyên tố âm dương (bóng tối, ánh sáng)
+linh hồn  
